@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f87d765e-8e75-43b5-8994-e058c7e65496" name="Default Changelist" comment="" />
+    <list default="true" id="f87d765e-8e75-43b5-8994-e058c7e65496" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1vOA5cUppYnTiKNaD6hr7GYgI9k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626422578806</updated>
-      <workItem from="1626422580341" duration="2122000" />
+      <workItem from="1626422580341" duration="2438000" />
+      <workItem from="1626431006748" duration="4000" />
     </task>
     <servers />
   </component>
@@ -56,21 +63,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1626424096179">
+    <state x="773" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1626430246579">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1626424096179" />
-    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1626424096178">
+    <state x="773" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1626430246579" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1626430250298">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1626424096178" />
-    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1626424096178">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1626430250298" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1626430250298">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1626424096178" />
-    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1626424096178">
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1626430250298" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1626430250297">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1626424096178" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1626430250297" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1626430250298">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1626430250298" />
   </component>
 </project>
