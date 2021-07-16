@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/Sort/main.cpp
+iostream
+-
+algorithm
+-
+

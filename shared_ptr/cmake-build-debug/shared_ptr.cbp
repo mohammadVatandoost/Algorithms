@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="shared_ptr"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shared_ptr">
+				<Option output="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/shared_ptr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 shared_ptr"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shared_ptr/fast">
+				<Option output="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/shared_ptr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 shared_ptr/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/main.cpp">
+			<Option target="shared_ptr"/>
+		</Unit>
+		<Unit filename="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/my_shared_ptr.h">
+			<Option target="shared_ptr"/>
+		</Unit>
+		<Unit filename="/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

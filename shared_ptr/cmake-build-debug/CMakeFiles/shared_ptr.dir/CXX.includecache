@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/main.cpp
+iostream
+-
+memory
+-
+my_shared_ptr.h
+/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/my_shared_ptr.h
+
+/media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/my_shared_ptr.h
+iostream
+-
+

@@ -1,0 +1,4 @@
+/media/mohammad/34BEBF2ABEBEE390/JetBrains.CLion.v2019.3.5.LinuX_www.Downloadha.com_/CLion-2019.3.5/clion-2019.3.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/mohammad/1ED9E8D6138E29102/Resume/InterviewQuestions/algorithms/shared_ptr/cmake-build-debug
